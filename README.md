@@ -41,14 +41,14 @@ This page redirects you to a dedicated section where you can analyze and gain in
 
 
 
-![Lnding page](https://github.com/NK-TheAnalyst/Shield-Insurance/blob/main/Landing%20Page.png)
+![Landing page](https://github.com/NK-TheAnalyst/Shield-Insurance/blob/main/Landing%20Page.png)
 
 ----------------------------------------------------------------------------------------------------------
 
 📊 **General View:**
 
-
-![image](https://github.com/user-attachments/assets/8de0a400-52f7-40c2-bf0a-ef02a423415b)
+This part shows a Summary of customer distribution and revenue across cities. It also tracks monthly growth and helps spots any trends or changes over time. 
+![General View](https://github.com/NK-TheAnalyst/Shield-Insurance/blob/main/Overview%20Page.png)
 
 
 
@@ -85,7 +85,7 @@ Delhi NCR recorded the highest customer count, followed by Mumbai.
 
 📈 **Sales View Overview**
 
-![sales view](https://github.com/user-attachments/assets/107288b7-a55e-4628-909a-29f82289bdb1)
+![sales view](https://github.com/NK-TheAnalyst/Shield-Insurance/blob/main/Sales%20Analysis.png)
 
 
 
@@ -138,23 +138,19 @@ Policy POL2005HEL stands out with the highest revenue under the Above 65 age gro
 
 
 
-![Age group1](https://github.com/user-attachments/assets/1aa722f4-14c4-4bc9-9c05-57c99582771c)
+![Age group Analysis](https://github.com/NK-TheAnalyst/Shield-Insurance/blob/main/Age%20Analysis.png)
 
-The overall expected settlement rate stands at 61.89%.
+The highest settlement rate is observed in the 35 - 40 age group at 32.8%, followed by:
 
-The highest settlement rate is observed in the Above 65 age group at 74.33%, followed by:
+Above 65: 22.06%
 
-51–65: 65.35%
+41–50: 20.12%
 
-41–50: 60.79%
+51-60: 16.86%
 
-Younger age groups show lower settlement expectations:
+25–30: 5.55%
 
-31–40: 53.53%
-
-25–30: 45.68%
-
-18–24: only 37.51%
+18–24: only 2.52%
 
 This trend suggests higher claim settlement expectations among older customers, which may reflect greater policy maturity or possibly higher trust in claim processes. The 18–40 segment may require more engagement or process clarity to improve confidence and satisfaction
 
@@ -170,6 +166,11 @@ We have also few policies like POL4321HEL ,which had high cutomer count of 4,344
 
 
 
+✅ **Conclusion:**
+
+For any inquiries feel free to connect with me:
+
+- **LinkedIn:** [Profile](https://www.linkedin.com/in/naveen-kumar-n-095051195/)
 
 
 
