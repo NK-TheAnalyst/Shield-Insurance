@@ -41,7 +41,7 @@ This page redirects you to a dedicated section where you can analyze and gain in
 
 
 
-![Lnding page](https://github.com/user-attachments/assets/3c56f12f-88c9-4c8c-b090-0663b7a06f5f)
+![Lnding page](https://github.com/NK-TheAnalyst/Shield-Insurance/blob/main/Landing%20Page.png)
 
 ----------------------------------------------------------------------------------------------------------
 
